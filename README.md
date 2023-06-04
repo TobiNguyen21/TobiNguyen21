@@ -1,11 +1,7 @@
-<p align="center">
-  <h2 align="center">😂 Try hard hard hard</h2>
-  <p align="center">
-    <img src="https://raw.githubusercontent.com/OngDev/.github/main/profile/final.gif" alt="Try Hard">
-  <br/>
+<div align="center">
+   <h2 align="center">Hello World 👋. I'm Tobi</h2>
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  </p>
-</p>
+</div>
 
 <p align="center">
   <h2 align="center">💻 Tech Stack:</h2>
@@ -34,6 +30,12 @@
   </p>
 </p>
 
+<p align="center">
+  <h2 align="center">😂 Try hard hard hard</h2>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/OngDev/.github/main/profile/final.gif" alt="Try Hard">   
+  </p>
+</p>
 
 
 
