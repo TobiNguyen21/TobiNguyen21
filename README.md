@@ -18,7 +18,7 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=TobiNguyen21&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 😂 Random Dev Meme
+### 😂 Try hard hard hard
 <img
     src="https://raw.githubusercontent.com/OngDev/.github/main/profile/final.gif"
  />
